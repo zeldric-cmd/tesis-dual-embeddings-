@@ -1,0 +1,21 @@
+{
+  "n_neg_por_usuario": 99,
+  "seed_val": 42,
+  "seed_test": 10042,
+  "validacion_val": {
+    "n_users": 182223,
+    "n_neg_promedio": 99.0,
+    "n_neg_min": 99,
+    "n_neg_max": 99,
+    "contaminados": 0,
+    "duplicados": 0
+  },
+  "validacion_test": {
+    "n_users": 182223,
+    "n_neg_promedio": 99.0,
+    "n_neg_min": 99,
+    "n_neg_max": 99,
+    "contaminados": 0,
+    "duplicados": 0
+  }
+}

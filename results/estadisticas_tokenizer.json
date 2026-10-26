@@ -1,0 +1,19 @@
+{
+  "vocab_size_bpe": 8000,
+  "emb_dim": 300,
+  "fasttext_modelo": "wiki-news-300d-1M-subword.bin",
+  "tokenizer_stats": {
+    "tokens_promedio": 5.2512495274896045,
+    "tokens_mediana": 5.0,
+    "tokens_min": 1,
+    "tokens_max": 33,
+    "tokens_p95": 10.0,
+    "tokens_p99": 14.0
+  },
+  "n_productos": 47618,
+  "matriz_shape": [
+    47618,
+    300
+  ],
+  "norms_promedio": 0.4113560616970062
+}

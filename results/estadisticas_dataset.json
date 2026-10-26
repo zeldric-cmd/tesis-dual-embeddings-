@@ -1,0 +1,40 @@
+{
+  "antes_filtro": {
+    "n_usuarios": 206209,
+    "n_productos": 49688,
+    "n_pares_unicos": 13307953,
+    "n_interacciones_totales": 32434489,
+    "matriz_posible": 10246112792,
+    "esparsidad": 0.9987011705541256
+  },
+  "despues_filtro": {
+    "n_usuarios": 182223,
+    "n_productos": 47618,
+    "n_pares_unicos": 12755343,
+    "n_interacciones_totales": 31740980,
+    "matriz_posible": 8677094814,
+    "esparsidad": 0.998529998429956
+  },
+  "filtros_aplicados": {
+    "min_ordenes_usuario": 5,
+    "min_apariciones_prod": 5
+  },
+  "particion_leave_one_out": {
+    "usuarios_finales": 182223,
+    "longitud_media_train": 172.18756139455502,
+    "longitud_mediana_train": 97.0,
+    "longitud_min_train": 2,
+    "longitud_max_train": 3723
+  },
+  "recompras": {
+    "pct_test_recompra": 46.708703072608834,
+    "pct_val_recompra": 50.81740504766138,
+    "n_test_no_recompra": 97109
+  },
+  "diversidad": {
+    "n_total_train_promedio": 172.18756139455502,
+    "n_unicos_train_promedio": 68.97511839888489,
+    "ratio_diversidad_promedio": 0.540585884314595
+  },
+  "seed": 42
+}

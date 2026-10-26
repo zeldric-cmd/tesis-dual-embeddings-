@@ -1,0 +1,119 @@
+{
+  "pares_relacionados": [
+    {
+      "producto_1": "Organic Whole Milk",
+      "producto_2": "Organic Reduced Fat Milk",
+      "similitud": 0.8610019683837891
+    },
+    {
+      "producto_1": "Organic Whole Milk",
+      "producto_2": "Organic 2% Reduced Fat Milk",
+      "similitud": 0.2362855225801468
+    },
+    {
+      "producto_1": "Greek Nonfat Yogurt Plain",
+      "producto_2": "Organic Plain Greek Whole Milk Yogurt",
+      "similitud": 0.9169999361038208
+    },
+    {
+      "producto_1": "Organic Baby Spinach",
+      "producto_2": "Organic Spinach",
+      "similitud": 0.8631798028945923
+    },
+    {
+      "producto_1": "Organic Hass Avocado",
+      "producto_2": "Organic Avocado",
+      "similitud": 0.8841969966888428
+    },
+    {
+      "producto_1": "Organic Strawberries",
+      "producto_2": "Organic Blueberries",
+      "similitud": 0.9473918676376343
+    },
+    {
+      "producto_1": "Sparkling Water",
+      "producto_2": "Sparkling Lemon Water",
+      "similitud": 0.894943356513977
+    },
+    {
+      "producto_1": "Bag of Organic Bananas",
+      "producto_2": "Banana",
+      "similitud": 0.5914654731750488
+    },
+    {
+      "producto_1": "Sharp Cheddar Cheese",
+      "producto_2": "Mild Cheddar Cheese",
+      "similitud": 0.897563636302948
+    },
+    {
+      "producto_1": "Extra Virgin Olive Oil",
+      "producto_2": "Olive Oil",
+      "similitud": 0.9360676407814026
+    },
+    {
+      "producto_1": "Whole Wheat Bread",
+      "producto_2": "White Bread",
+      "similitud": 0.8235218524932861
+    },
+    {
+      "producto_1": "Organic Large Brown Eggs",
+      "producto_2": "Organic Eggs",
+      "similitud": 0.8904790878295898
+    }
+  ],
+  "pares_no_relacionados": [
+    {
+      "producto_1": "Organic Whole Milk",
+      "producto_2": "Dish Soap",
+      "similitud": 0.5664932727813721
+    },
+    {
+      "producto_1": "Greek Nonfat Yogurt Plain",
+      "producto_2": "Paper Towels",
+      "similitud": 0.4438021183013916
+    },
+    {
+      "producto_1": "Organic Baby Spinach",
+      "producto_2": "Laundry Detergent",
+      "similitud": 0.49249759316444397
+    },
+    {
+      "producto_1": "Banana",
+      "producto_2": "Aluminum Foil",
+      "similitud": 0.3912355303764343
+    },
+    {
+      "producto_1": "Sharp Cheddar Cheese",
+      "producto_2": "Toilet Paper Rolls",
+      "similitud": 0.45933520793914795
+    },
+    {
+      "producto_1": "Sparkling Water",
+      "producto_2": "Small Trash Bags",
+      "similitud": 0.5776138305664062
+    },
+    {
+      "producto_1": "Olive Oil",
+      "producto_2": "Clear Hand Soap",
+      "similitud": 0.4904720187187195
+    },
+    {
+      "producto_1": "White Bread",
+      "producto_2": "Dishwasher Detergent",
+      "similitud": 0.44936633110046387
+    },
+    {
+      "producto_1": "Organic Strawberries",
+      "producto_2": "Glass Cleaner",
+      "similitud": 0.5089939832687378
+    },
+    {
+      "producto_1": "Organic Eggs",
+      "producto_2": "Fabric Softener",
+      "similitud": 0.4273624122142792
+    }
+  ],
+  "promedio_relacionados": 0.8119247617820898,
+  "promedio_no_relacionados": 0.48071722984313964,
+  "diferencia_discriminativa": 0.3312075319389502
+}

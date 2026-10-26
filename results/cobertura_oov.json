@@ -1,0 +1,67 @@
+{
+  "productos": [
+    {
+      "producto": "Organique Whole Milk 2%",
+      "tipo": "Neologismo con acento no estandar",
+      "cobertura_bpe": 100.0,
+      "cobertura_word": 100.0
+    },
+    {
+      "producto": "Glutenfrei Sourdough Bread",
+      "tipo": "Termino en otro idioma (aleman)",
+      "cobertura_bpe": 100.0,
+      "cobertura_word": 66.66666666666667
+    },
+    {
+      "producto": "Vegano Unsalted Butterblend",
+      "tipo": "Termino compuesto nuevo",
+      "cobertura_bpe": 100.0,
+      "cobertura_word": 33.333333333333336
+    },
+    {
+      "producto": "Paleolicious Grain Free Granola",
+      "tipo": "Neologismo de marca",
+      "cobertura_bpe": 100.0,
+      "cobertura_word": 75.0
+    },
+    {
+      "producto": "Keto-Friendly Cauliflower Tortillas",
+      "tipo": "Termino de tendencia dietetica",
+      "cobertura_bpe": 100.0,
+      "cobertura_word": 66.66666666666667
+    },
+    {
+      "producto": "Probiotiqs Greek Yogurt Plain",
+      "tipo": "Errata intencional en marca",
+      "cobertura_bpe": 100.0,
+      "cobertura_word": 75.0
+    },
+    {
+      "producto": "Aquafina Sparklng Water",
+      "tipo": "Errata tipografica (letra faltante)",
+      "cobertura_bpe": 100.0,
+      "cobertura_word": 33.333333333333336
+    },
+    {
+      "producto": "Wholesome Organikz Baby Spinach",
+      "tipo": "Grafia no convencional de marca",
+      "cobertura_bpe": 100.0,
+      "cobertura_word": 75.0
+    },
+    {
+      "producto": "Freerange Omega3 Eggs",
+      "tipo": "Termino compuesto sin espacio",
+      "cobertura_bpe": 100.0,
+      "cobertura_word": 66.66666666666667
+    },
+    {
+      "producto": "Superfoods Quinoamilk Unsweetened",
+      "tipo": "Neologismo compuesto (quinoa+milk)",
+      "cobertura_bpe": 100.0,
+      "cobertura_word": 100.0
+    }
+  ],
+  "promedio_bpe": 100.0,
+  "promedio_word": 69.16666666666666,
+  "ventaja_pp": 30.833333333333343
+}

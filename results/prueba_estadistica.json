@@ -1,0 +1,30 @@
+{
+  "cold_Dual_vs_ItemCF": {
+    "discordancia_m1_solo": 5195,
+    "discordancia_m2_solo": 0,
+    "mcnemar_stat": 5193.000192492782,
+    "mcnemar_p": 0.0,
+    "significativo": true
+  },
+  "cold_Dual_vs_TFIDF": {
+    "discordancia_m1_solo": 3272,
+    "discordancia_m2_solo": 3048,
+    "mcnemar_stat": 7.868512658227848,
+    "mcnemar_p": 0.005030301184666145,
+    "significativo": true
+  },
+  "warm_Dual_vs_ItemCF": {
+    "discordancia_m1_solo": 2277,
+    "discordancia_m2_solo": 17210,
+    "mcnemar_stat": 11441.711089444245,
+    "mcnemar_p": 0.0,
+    "significativo": true
+  },
+  "warm_Dual_vs_TFIDF": {
+    "discordancia_m1_solo": 78838,
+    "discordancia_m2_solo": 9129,
+    "mcnemar_stat": 55238.956244955494,
+    "mcnemar_p": 0.0,
+    "significativo": true
+  }
+}
